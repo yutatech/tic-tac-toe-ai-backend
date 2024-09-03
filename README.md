@@ -1,12 +1,12 @@
 # tic-tac-toe-ai-backend
-AIと対戦できる三目並べのbackendです。
+AIと対戦できる三目並べのbackendの実装です。goで記述されています。
 
 ## 実行方法
 ```shell
 go run main.go
 ```
 
-`http://localhost:8080/`からアクセスできます。
+[`http://localhost:8080/`](http://localhost:8080/)からアクセスできます。
 
 ## API
 - `api/state_action?state=10`
