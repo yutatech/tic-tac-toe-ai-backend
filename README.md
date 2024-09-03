@@ -16,7 +16,7 @@ go run main.go
     - 三目並べの盤面を整数値に変換してクエリパラメータ`state`に渡すと、AIがコマを置く位置を整数値で返します。
 
 ## frontend
-frntendの実装は以下のリポジトリにあります。
+frontendの実装は以下のリポジトリにあります。
 
 [https://github.com/yutatech/tic-tac-toe-ai-frontend](https://github.com/yutatech/tic-tac-toe-ai-frontend)
 
